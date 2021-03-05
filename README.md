@@ -26,6 +26,8 @@
 
 ### Prints do projeto
 
-[<img alt="Countdown" src="./public/readme/Countdown.png" />]
-[<img alt="Exercício" src="./public/readme/Exercício.png" />]
-[<img alt="Barra de level" src="./public/readme/Barra de level.png" />]
+<img alt="Barra de level" src="./public/readme/Barra de level.png" />
+
+<img alt="Countdown" src="./public/readme/Countdown.png" />
+
+<img alt="Exercício" src="./public/readme/Exercício.png" />
