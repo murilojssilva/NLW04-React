@@ -26,6 +26,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 ### :link: Deploy
 
 <p>
+	Para acessar o deploy da aplicação na plataforma da <a href="https://vercel.com/">Vercel</a>, visite
 	<a href="https://moveit-murilojssilva.vercel.app/">https://moveit-murilojssilva.vercel.app/</a>
 </p>
 
@@ -97,7 +98,7 @@ As seguintes ferramentas foram usadas na construção da aplicação:
 
 - [React](https://pt-br.reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
-- [NextJS](https://github.com/vercel/next.js/)
+- [NextJS](https://vercel.com/)
 
 ### :book: Licença 
 
