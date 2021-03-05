@@ -1,5 +1,9 @@
 <h1 align="center">Move.It 🚀</h1>
 
+<p align="center">
+	<img src="./public/logo-full.svg"/>
+</p>
+
 <p align="center">Projeto desenvolvido durante a 4ª edição do Next Level Week, idealizado pela <a href="https://github.com/rocketseat">Rocketseat</a>.</p>
 
 ### Link do deploy
@@ -45,15 +49,21 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 #### Clone do repositório
 
+```shell
 $ git clone <https://github.com/murilojssilva/NLW04-React>
+```
 
 #### Instale as dependêmcias
 
+```shell
 $ yarn add
+```
 
 #### Execute a aplicação em modo de desenvolvimento
 
+```shell
 $ yarn dev
+```
 
 #### O servidor iniciará na porta:3002 - acesse <http://localhost:3002>
 
