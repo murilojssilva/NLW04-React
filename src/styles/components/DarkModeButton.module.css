@@ -1,0 +1,21 @@
+.container {
+	width: 100%;
+  }
+  
+  .container button {
+	width: 8rem;
+	height: 2rem;
+	color: var(--text);
+	background-color: var(--gray-line);
+	border-radius: 5px;
+	border: 0;
+	font-size: 0.85rem;
+	font-weight: 500;
+	margin-top: 0.5rem;
+	transition: background 0.2s;
+  }
+  
+  .container button:hover {
+	background-color: var(--title);
+	color: var(--white);
+  }

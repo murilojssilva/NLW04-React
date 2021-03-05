@@ -1,0 +1,21 @@
+.containerDark {
+	width: 100%;
+  }
+  
+  .containerDark button {
+	width: 8rem;
+	height: 2rem;
+	color: var(--white);
+	background-color: var(--title);
+	border-radius: 5px;
+	border: 0;
+	font-size: 0.85rem;
+	font-weight: 500;
+	margin-top: 0.5rem;
+	transition: background 0.2s;
+  }
+  
+  .containerDark button:hover {
+	background-color: var(--background);
+	color: var(--title);
+  }

@@ -20,7 +20,7 @@
 ### Funcionalidades (desafios)
 - [x] Criação do README
 - [ ] Login com o GitHub
-- [ ] Dark Mode
+- [x] Dark Mode
 - [ ] Responsividade
 - [ ] Ranking
 
