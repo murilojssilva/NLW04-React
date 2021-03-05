@@ -1,18 +1,22 @@
-<h1 align="center">Move.It 🚀</h1>
-
 <p align="center">
 	<img src="./public/logo-full.svg"/>
 </p>
 
 <p align="center">Projeto desenvolvido durante a 4ª edição do Next Level Week, idealizado pela <a href="https://github.com/rocketseat">Rocketseat</a>.</p>
 
-### Link do deploy
+### :pushpin: Pré-requisitos
+
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+
+### :link: Link do deploy
 
 <p>
 	<a href="https://moveit-murilojssilva.vercel.app/">https://moveit-murilojssilva.vercel.app/</a>
 </p>
 
-### Funcionalidades
+### :hammer: Funcionalidades
 
 - [x] Cronômetro
 - [x] Elevação do level
@@ -21,14 +25,15 @@
 - [x] Notificações
 - [X] Deploy pelo Vercel
 
-### Funcionalidades (desafios)
+### :wrench: Funcionalidades (desafios)
+
 - [x] Criação do README
 - [x] Login com o GitHub
 - [x] Dark Mode
 - [x] Responsividade
 - [ ] Ranking
 
-### Prints da aplicação
+### :framed_picture: Imagens da aplicação
 
 <p align="center">
 	<img alt="Barra de level" src="./public/readme/Barra de level.png" />
@@ -39,13 +44,8 @@
 	<img alt="Exercício" src="./public/readme/Exercício.png" />
 </p>
 
-### Pré-requisitos
 
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
-Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
-
-### Rodando a aplicação
+### :rocket: Rodando a aplicação
 
 #### Clone do repositório
 
@@ -67,7 +67,7 @@ $ yarn dev
 
 #### O servidor iniciará na porta:3002 - acesse <http://localhost:3002>
 
-### 🛠 Tecnologias
+### :computer: Tecnologias
 
 As seguintes ferramentas foram usadas na construção da aplicação:
 
@@ -75,6 +75,6 @@ As seguintes ferramentas foram usadas na construção da aplicação:
 - [TypeScript](https://www.typescriptlang.org/)
 - [NextJS](https://github.com/vercel/next.js/)
 
-### Licença
+### :book: Licença 
 
 Este projeto está sob a licença [MIT](https://github.com/murilojssilva/NLW04-React/blob/main/LICENSE)
