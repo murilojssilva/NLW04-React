@@ -23,9 +23,9 @@
 
 ### Funcionalidades (desafios)
 - [x] Criação do README
-- [ ] Login com o GitHub
+- [x] Login com o GitHub
 - [x] Dark Mode
-- [ ] Responsividade
+- [x] Responsividade
 - [ ] Ranking
 
 ### Prints da aplicação
