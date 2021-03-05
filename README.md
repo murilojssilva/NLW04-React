@@ -101,4 +101,4 @@ As seguintes ferramentas foram usadas na construção da aplicação:
 
 Este projeto está sob a licença [MIT](https://github.com/murilojssilva/NLW04-React/blob/main/LICENSE)
 
-<b align="center">Feito com :black_heart: por [Murilo](https://github.com/murilojssilva)</b>
+<o align="center">Feito com :black_heart: por [Murilo](https://github.com/murilojssilva)</o>
