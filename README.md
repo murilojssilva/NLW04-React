@@ -6,14 +6,16 @@
 
 ### :pushpin: Conteúdo
 
-- [Pré-requisitos](#pre-requisitos)
-- [Deploy](#deploy)
-- [Funcionalidades](#funcionalidades-desafios)
-- [Funcionalidades (desafios)](#desafios)
-- [Screenshots da aplicação](#screenshots)
-- [Rodando a aplicação](#rodando-a-aplicacao)
-- [Tecnologias](#tecnologias)
-- [Licença](#licenca)
+<p align="center">
+	<a href="#pre-requisitos">Pré-requisitos</a>
+	<a href="#deploy">Deploy</a>
+	<a href="#funcionalidades">Funcionalidades</a>
+	<a href="#desafios">Funcionalidades (em construção)</a>
+	<a href="#screenshots">Screenshots</a>
+	<a href="#executando-a-aplicacao">Executando a aplicação</a>
+	<a href="#tecnologias">Tecnologias</a>
+	<a href="#licenca">Licença</a>
+</p>
 
 ### :gear: Pré-requisitos
 
@@ -21,7 +23,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-### :link: Link do deploy
+### :link: Deploy
 
 <p>
 	<a href="https://moveit-murilojssilva.vercel.app/">https://moveit-murilojssilva.vercel.app/</a>
@@ -36,7 +38,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 - [x] Notificações
 - [X] Deploy pelo Vercel
 
-### :wrench: Funcionalidades (desafios)
+### :construction: Funcionalidades (em construção)
 
 - [x] Criação do README
 - [x] Login com o GitHub
@@ -44,7 +46,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 - [x] Responsividade
 - [ ] Ranking
 
-### :framed_picture: Imagens da aplicação
+### :framed_picture: Screenshots
 
 <p align="center">
 	<img alt="Barra de level" src="./public/readme/Barra de level.png" />
@@ -67,7 +69,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 	<img alt="Login Github" src="./public/readme/Login Github.png" />
 </p>
 
-### :rocket: Rodando a aplicação
+### :rocket: Executando a aplicação
 
 #### Clone do repositório
 
