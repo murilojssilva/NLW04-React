@@ -4,7 +4,18 @@
 
 <p align="center">Projeto desenvolvido durante a 4ª edição do Next Level Week, idealizado pela <a href="https://github.com/rocketseat">Rocketseat</a>.</p>
 
-### :pushpin: Pré-requisitos
+### :pushpin: Conteúdo
+
+- [Pré-requisitos](#pre-requisitos)
+- [Deploy](#deploy)
+- [Funcionalidades](#funcionalidades-desafios)
+- [Funcionalidades (desafios)](#desafios)
+- [Screenshots da aplicação](#screenshots)
+- [Rodando a aplicação](#rodando-a-aplicacao)
+- [Tecnologias](#tecnologias)
+- [Licença](#licenca)
+
+### :gear: Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
@@ -90,4 +101,4 @@ As seguintes ferramentas foram usadas na construção da aplicação:
 
 Este projeto está sob a licença [MIT](https://github.com/murilojssilva/NLW04-React/blob/main/LICENSE)
 
-<b>Feito com :black_heart: por [Murilo](https://github.com/murilojssilva)</b>
+<b align="center">Feito com :black_heart: por [Murilo](https://github.com/murilojssilva)</b>
