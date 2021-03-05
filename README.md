@@ -43,19 +43,19 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ### Rodando a aplicação
 
-# Clone do repositório
+#### Clone do repositório
 
 $ git clone <https://github.com/murilojssilva/NLW04-React>
 
-# Instale as dependêmcias
+#### Instale as dependêmcias
 
 $ yarn add
 
-# Execute a aplicação em modo de desenvolvimento
+#### Execute a aplicação em modo de desenvolvimento
 
 $ yarn dev
 
-# O servidor iniciará na porta:3002 - acesse <http://localhost:3002>
+#### O servidor iniciará na porta:3002 - acesse <http://localhost:3002>
 
 ### 🛠 Tecnologias
 
