@@ -2,15 +2,30 @@
 
 <p align="center">Projeto desenvolvido durante a 4ªa edição do Next Level Week, idealizado pela <a href="https://github.com/rocketseat">Rocketseat</a>.</p>
 
-Organização dos dias
-=================
-<!--ts-->
-   * [Conteúdos dos dias](#Dias)
-      * [Dia 1](#dia1)
-      * [Dia 2](#dia2)
-      * [Dia 3](#dia3)
-      * [Dia 4](#dia4)
-	  * [Dia 5](#dia5)
-   * [Tecnologias utilizadas](#Tecnologias)
-   * [Link do deploy](#Deploy)
-<!--te-->
+### Funcionalidades
+
+- [x] Cronômetro
+- [x] Elevação do level
+- [x] Pontuação
+- [x] Lista de exercícios
+- [x] Notificações
+- [X] Deploy pelo Vercel
+
+### Funcionalidades (desafios)
+- [x] Criação do README
+- [] Login com o GitHub
+- [] Dark Mode
+- [] Responsividade
+- [] Ranking
+
+### Prints do projeto
+
+<h1 align="center">
+	<img alt="Countdown" src="./readme/Countdown.png" />
+</h1>
+<h1 align="center">
+	<img alt="Exercício" src="./readme/Exercício.png" />
+</h1>
+<h1 align="center">
+	<img alt="Barra de level" src="./readme/Barra de level.png" />
+</h1>
