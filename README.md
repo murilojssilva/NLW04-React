@@ -44,6 +44,17 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 	<img alt="Exercício" src="./public/readme/Exercício.png" />
 </p>
 
+<p align="center">
+	<img alt="Início light" src="./public/readme/Início light.png" />
+</p>
+
+<p align="center">
+	<img alt="Início dark" src="./public/readme/Início dark.png" />
+</p>
+
+<p align="center">
+	<img alt="Login Github" src="./public/readme/Login Github.png" />
+</p>
 
 ### :rocket: Rodando a aplicação
 
