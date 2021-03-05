@@ -73,3 +73,8 @@ As seguintes ferramentas foram usadas na construção da aplicação:
 
 - [React](https://pt-br.reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
+- [NextJS](https://github.com/vercel/next.js/)
+
+### Licença
+
+Este projeto está sob a licença [MIT](https://github.com/murilojssilva/NLW04-React/blob/main/LICENSE)
