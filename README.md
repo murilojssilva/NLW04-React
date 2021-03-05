@@ -24,7 +24,7 @@
 - [ ] Responsividade
 - [ ] Ranking
 
-### Prints do projeto
+### Prints da aplicação
 
 <p align="center">
 	<img alt="Barra de level" src="./public/readme/Barra de level.png" />
@@ -34,3 +34,32 @@
 	<img alt="Countdown" src="./public/readme/Countdown.png" />
 	<img alt="Exercício" src="./public/readme/Exercício.png" />
 </p>
+
+### Pré-requisitos
+
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+
+### Rodando a aplicação
+
+# Clone do repositório
+
+$ git clone <https://github.com/murilojssilva/NLW04-React>
+
+# Instale as dependêmcias
+
+$ yarn add
+
+# Execute a aplicação em modo de desenvolvimento
+
+$ yarn dev
+
+# O servidor iniciará na porta:3002 - acesse <http://localhost:3002>
+
+### 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção da aplicação:
+
+- [React](https://pt-br.reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
