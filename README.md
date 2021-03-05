@@ -27,11 +27,11 @@
 ### Prints do projeto
 
 <h1 align="center">
-	<img alt="Countdown" src="./readme/Countdown.png" />
+	<img alt="Countdown" src="readme/Countdown.png" />
 </h1>
 <h1 align="center">
-	<img alt="Exercício" src="./readme/Exercício.png" />
+	<img alt="Exercício" src="readme/Exercício.png" />
 </h1>
 <h1 align="center">
-	<img alt="Barra de level" src="./readme/Barra de level.png" />
+	<img alt="Barra de level" src="readme/Barra de level.png" />
 </h1>
