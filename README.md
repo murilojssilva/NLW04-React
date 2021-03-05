@@ -1,6 +1,6 @@
 <h1 align="center">Move.It 🚀</h1>
 
-<p align="center">Projeto desenvolvido durante a 4ªa edição do Next Level Week, idealizado pela <a href="https://github.com/rocketseat">Rocketseat</a>.</p>
+<p align="center">Projeto desenvolvido durante a 4ª edição do Next Level Week, idealizado pela <a href="https://github.com/rocketseat">Rocketseat</a>.</p>
 
 ### Link do deploy
 
