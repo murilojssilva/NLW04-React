@@ -2,6 +2,12 @@
 
 <p align="center">Projeto desenvolvido durante a 4ªa edição do Next Level Week, idealizado pela <a href="https://github.com/rocketseat">Rocketseat</a>.</p>
 
+### Link do deploy
+
+<p>
+	<a href="https://moveit-murilojssilva.vercel.app/">https://moveit-murilojssilva.vercel.app/</a>
+</p>
+
 ### Funcionalidades
 
 - [x] Cronômetro
@@ -13,10 +19,10 @@
 
 ### Funcionalidades (desafios)
 - [x] Criação do README
-- [] Login com o GitHub
-- [] Dark Mode
-- [] Responsividade
-- [] Ranking
+- [ ] Login com o GitHub
+- [ ] Dark Mode
+- [ ] Responsividade
+- [ ] Ranking
 
 ### Prints do projeto
 
