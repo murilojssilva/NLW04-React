@@ -7,14 +7,14 @@
 ### :pushpin: Conteúdo
 
 <p align="center">
-	<a href="#pre-requisitos">Pré-requisitos</a>
-	<a href="#deploy">Deploy</a>
-	<a href="#funcionalidades">Funcionalidades</a>
-	<a href="#desafios">Funcionalidades (em construção)</a>
-	<a href="#screenshots">Screenshots</a>
-	<a href="#executando-a-aplicacao">Executando a aplicação</a>
-	<a href="#tecnologias">Tecnologias</a>
-	<a href="#licenca">Licença</a>
+	<a href="#pre-requisitos">Pré-requisitos</a> | 
+	<a href="#deploy">Deploy</a> | 
+	<a href="#funcionalidades">Funcionalidades</a> | 
+	<a href="#desafios">Funcionalidades (em construção)</a> | 
+	<a href="#screenshots">Screenshots</a> | 
+	<a href="#executando-a-aplicacao">Executando a aplicação</a> | 
+	<a href="#tecnologias">Tecnologias</a> | 
+	<a href="#licenca">Licença</a> | 
 </p>
 
 ### :gear: Pré-requisitos
